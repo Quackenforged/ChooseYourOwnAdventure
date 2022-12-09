@@ -4,7 +4,7 @@ I created a java game with  Graphic user interface
 
 I wanted to learn how to create a graphic user interface in java to help me in future endeavors of creating small games
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/phVrjhdvkY0)
 
 # Development Environment
 
